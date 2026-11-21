@@ -1,0 +1,35 @@
+
+# Simulation waveforms and compiled outputs
+*.vcd
+*.out
+*.exe
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+.cache/
+.runs/
+.sim/
+.gen/
+.hw/
+.ip_user_files/
+
+# Generated build directory
+/build/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+/fi_misses.csv
+/test_vcd.v
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Windows generated files
+desktop.ini

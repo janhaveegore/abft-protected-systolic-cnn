@@ -1,0 +1,31 @@
+
+16. Printing statistics.
+
+=== cnn_top_sys ===
+
+   Number of wires:                671
+   Number of wire bits:           6453
+   Number of public wires:         297
+   Number of public wire bits:    4684
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                874
+     BUFG                            1
+     CARRY4                         52
+     DSP48E1                        10
+     FDCE                           89
+     FDRE                          204
+     IBUF                           34
+     INV                            12
+     LUT2                          220
+     LUT3                           16
+     LUT4                           62
+     LUT5                           28
+     LUT6                           67
+     MUXF7                          11
+     MUXF8                           5
+     OBUF                           10
+     RAM32M                         13
+     SRL16E                         40
+
